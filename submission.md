@@ -14,8 +14,10 @@ DOCKER
 https://github.com/klee8880/spring-petclinic/blob/master/Dockerfile
 
 5 pts Your running docker instance as shown by a ps command.
+![2](https://github.com/klee8880/spring-petclinic/blob/master/figures/Docker%202.png)
 
 5 pts Your browser accessing the main page of the website from your local container.
+![3](https://github.com/klee8880/spring-petclinic/blob/master/figures/Docker%203.png)
 
 DOCKER COMPOSE - MYSQL ONLY
 5 pts The output from the docker-compose up command.
