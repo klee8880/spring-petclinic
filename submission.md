@@ -1,14 +1,3 @@
-![1](https://github.com/klee8880/spring-petclinic/blob/master/figures/P1.PNG)
-![2](https://github.com/klee8880/spring-petclinic/blob/master/figures/P2.PNG)
-![3](https://github.com/klee8880/spring-petclinic/blob/master/figures/P3.PNG)
-![4](https://github.com/klee8880/spring-petclinic/blob/master/figures/P4.PNG)
-![5](https://github.com/klee8880/spring-petclinic/blob/master/figures/P5.PNG)
-![6](https://github.com/klee8880/spring-petclinic/blob/master/figures/P6.PNG)
-![7](figures/P7)
-![8](https://github.com/klee8880/spring-petclinic/blob/master/figures/P7.PNG)
-![9](https://github.com/klee8880/spring-petclinic/blob/master/figures/P8.PNG)
-![10](figures/P10)
-
 DOCKER
 5 pts Your dockerfile. Please provide a link to this file rather than a screen capture.
 https://github.com/klee8880/spring-petclinic/blob/master/Dockerfile
