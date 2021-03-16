@@ -11,6 +11,7 @@
 
 DOCKER
 5 pts Your dockerfile. Please provide a link to this file rather than a screen capture.
+https://github.com/klee8880/spring-petclinic/blob/master/Dockerfile
 
 5 pts Your running docker instance as shown by a ps command.
 
