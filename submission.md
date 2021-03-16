@@ -23,14 +23,14 @@ DOCKER COMPOSE - APP SERVER AND MYSQL
 5 pts Your updated docker-compose.yml file containing the application server, built from
 your local Dockerfile, and the existing MySQL configuration. Please provide a link
 to this file rather than a screen capture.
-
+https://github.com/klee8880/spring-petclinic/blob/master/docker-compose.yml
 
 5 pts Your updated application-mysql.properties file containing the URL change for
 the database server. Please provide a link to this file rather than a screen capture.
-
+https://github.com/klee8880/spring-petclinic/blob/master/src/main/resources/application-mysql.properties
 
 5 pts The output from the docker-compose up command.
-
+![9](https://github.com/klee8880/spring-petclinic/blob/master/figures/Docker%209.png)
 
 5 pts Your browser
-
+![10](https://github.com/klee8880/spring-petclinic/blob/master/figures/Docker%2010.png)
